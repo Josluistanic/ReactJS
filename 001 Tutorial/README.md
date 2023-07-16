@@ -10,3 +10,4 @@ Tic tac toe game with ReactJS using the [tutorial](https://react.dev/learn/tutor
 5. We gonna work in the `app/page.js` file following the React tutorial
 6. We follow the steps until we add the handleClick method to Square, in this step we need to add the "use client" directive to the top of the file that contains the Square component
 7. Then we need to add the "use client" directive to the Board component
+8. Follow the steps of the tutorial
